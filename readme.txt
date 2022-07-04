@@ -8,3 +8,4 @@ double nextLine.
 hihi!
 not gg.
 change branch "bug" in github 
+nextLine bug2
