@@ -6,5 +6,5 @@ Creating a new branch is quick AND simple.
 nextLine.
 double nextLine.
 hihi!
-gg.
+not gg.
 change branch "bug" in github 
